@@ -1,7 +1,8 @@
 ---
 title: 'Initial Discoveries (Traffic Light)'
 description: 'My initial discoveries and the steps I took focussed on the traffic light'
-date: 30-09-2023
+date: '30-09-2023'
+slug: 'inital-discoveries-traffic-light'
 ---
 # The purchasing experience
 On the 21st of September 2023 I made the plunge and spent £85 (£60 for the light + £24.99 on postage) on my traffic light.
