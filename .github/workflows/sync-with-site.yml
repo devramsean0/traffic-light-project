@@ -15,7 +15,7 @@ jobs:
       - name: "Init submodule"
         run: git submodule update --init
       - name: "Update the submodule"
-        run: git submodule update --remote traffic-light-project
+        run: git submodule update --remote _projects/traffic-light-project
       - name: Commit & Push
         uses: nick-fields/retry@v2
         with:
